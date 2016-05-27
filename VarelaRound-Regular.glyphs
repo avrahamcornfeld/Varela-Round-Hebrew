@@ -1,4 +1,5 @@
 {
+.appVersion = "895";
 DisplayStrings = (
 "/.notdef  !\"#$%&'()*+,-.//0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[/backslash ]^_`abcdefghijklmnopqrstuvwxyz{|}~\U00A0\U00A1\U00A2\U00A3\U00A4\U00A5\U00A7\U00A8\U00A9\U00AA\U00AB\U00AC\U00AE\U00AF\U00B0\U00B1\U00B2\U00B3\U00B4\U00B5\U00B6\U00B7\U00B8\U00B9\U00BA\U00BB\U00BC\U00BD\U00BE\U00BF\U00C0\U00C1\U00C2\U00C3\U00C4\U00C5\U00C6\U00C7\U00C8\U00C9\U00CA\U00CB\U00CC\U00CD\U00CE\U00CF\U00D0\U00D1\U00D2\U00D3\U00D4\U00D5\U00D6\U00D7\U00D8\U00D9\U00DA\U00DB\U00DC\U00DD\U00DE\U00DF\U00E0\U00E1\U00E2\U00E3\U00E4\U00E5\U00E6\U00E7\U00E8\U00E9\U00EA\U00EB\U00EC\U00ED\U00EE\U00EF\U00F0\U00F1\U00F2\U00F3\U00F4\U00F5\U00F6\U00F7\U00F8\U00F9\U00FA\U00FB\U00FC\U00FD\U00FE/ydieresis/longs/florin/AEacute/aeacute/Oslashacute/oslashacute/Scommaaccent/scommaaccent/uni021A/uni021B/dotlessj/circumflex/caron/breve/dotaccent/ring/ogonek/tilde/hungarumlaut/uni03A9/pi/endash/emdash/quoteleft/quoteright/quotesinglbase/quotedblleft/quotedblright/quotedblbase/dagger/daggerdbl/bullet/ellipsis/guilsinglleft/guilsinglright/fraction/Euro/trademark/Omega/partialdiff/Delta/product/summation/minus/radical/infinity/integral/approxequal/notequal/lessequal/greaterequal/lozenge/f_f/f_j/fi/fl/f_f_i/f_f_l/s_t \012Abzado0fjkntrR9/alef-hb/bet-hb/gimel-hb/dalet-hb/he-hb/vav-hb/zayin-hb/het-hb/tet-hb/yod-hb/finalkaf-hb/kaf-hb/lamed-hb/finalmem-hb/mem-hb/finalnun-hb/nun-hb/samekh-hb/ayin-hb/finalpe-hb/pe-hb/pe-hb/finaltsadi-hb/tsadi-hb/qof-hb/resh-hb/shin-hb/tav-hb",
 123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
@@ -27,255 +28,255 @@ value = "http://scripts.sil.org/OFL";
 {
 name = glyphOrder;
 value = (
-    ".notdef",
-    space,
-    exclam,
-    quotedbl,
-    numbersign,
-    dollar,
-    percent,
-    ampersand,
-    quotesingle,
-    parenleft,
-    parenright,
-    asterisk,
-    plus,
-    comma,
-    hyphen,
-    period,
-    slash,
-    zero,
-    one,
-    two,
-    three,
-    four,
-    five,
-    six,
-    seven,
-    eight,
-    nine,
-    colon,
-    semicolon,
-    less,
-    equal,
-    greater,
-    question,
-    at,
-    A,
-    B,
-    C,
-    D,
-    E,
-    F,
-    G,
-    H,
-    I,
-    J,
-    K,
-    L,
-    M,
-    N,
-    O,
-    P,
-    Q,
-    R,
-    S,
-    T,
-    U,
-    V,
-    W,
-    X,
-    Y,
-    Z,
-    bracketleft,
-    backslash,
-    bracketright,
-    asciicircum,
-    underscore,
-    grave,
-    a,
-    b,
-    c,
-    d,
-    e,
-    f,
-    g,
-    h,
-    i,
-    j,
-    k,
-    l,
-    m,
-    n,
-    o,
-    p,
-    q,
-    r,
-    s,
-    t,
-    u,
-    v,
-    w,
-    x,
-    y,
-    z,
-    braceleft,
-    bar,
-    braceright,
-    asciitilde,
-    uni00A0,
-    exclamdown,
-    cent,
-    sterling,
-    currency,
-    yen,
-    section,
-    dieresis,
-    copyright,
-    ordfeminine,
-    guillemotleft,
-    logicalnot,
-    registered,
-    macron,
-    degree,
-    plusminus,
-    twosuperior,
-    threesuperior,
-    acute,
-    mu,
-    paragraph,
-    periodcentered,
-    cedilla,
-    onesuperior,
-    ordmasculine,
-    guillemotright,
-    onequarter,
-    onehalf,
-    threequarters,
-    questiondown,
-    Agrave,
-    Aacute,
-    Acircumflex,
-    Atilde,
-    Adieresis,
-    Aring,
-    AE,
-    Ccedilla,
-    Egrave,
-    Eacute,
-    Ecircumflex,
-    Edieresis,
-    Igrave,
-    Iacute,
-    Icircumflex,
-    Idieresis,
-    Eth,
-    Ntilde,
-    Ograve,
-    Oacute,
-    Ocircumflex,
-    Otilde,
-    Odieresis,
-    multiply,
-    Oslash,
-    Ugrave,
-    Uacute,
-    Ucircumflex,
-    Udieresis,
-    Yacute,
-    Thorn,
-    germandbls,
-    agrave,
-    aacute,
-    acircumflex,
-    atilde,
-    adieresis,
-    aring,
-    ae,
-    ccedilla,
-    egrave,
-    eacute,
-    ecircumflex,
-    edieresis,
-    igrave,
-    iacute,
-    icircumflex,
-    idieresis,
-    eth,
-    ntilde,
-    ograve,
-    oacute,
-    ocircumflex,
-    otilde,
-    odieresis,
-    divide,
-    oslash,
-    ugrave,
-    uacute,
-    ucircumflex,
-    udieresis,
-    yacute,
-    thorn,
-    ydieresis,
-    longs,
-    florin,
-    AEacute,
-    aeacute,
-    Oslashacute,
-    oslashacute,
-    Scommaaccent,
-    scommaaccent,
-    uni021A,
-    uni021B,
-    dotlessj,
-    circumflex,
-    caron,
-    breve,
-    dotaccent,
-    ring,
-    ogonek,
-    tilde,
-    hungarumlaut,
-    uni03A9,
-    pi,
-    endash,
-    emdash,
-    quoteleft,
-    quoteright,
-    quotesinglbase,
-    quotedblleft,
-    quotedblright,
-    quotedblbase,
-    dagger,
-    daggerdbl,
-    bullet,
-    ellipsis,
-    guilsinglleft,
-    guilsinglright,
-    fraction,
-    Euro,
-    trademark,
-    Omega,
-    partialdiff,
-    Delta,
-    product,
-    summation,
-    minus,
-    radical,
-    infinity,
-    integral,
-    approxequal,
-    notequal,
-    lessequal,
-    greaterequal,
-    lozenge,
-    "f_f",
-    "f_j",
-    fi,
-    fl,
-    "f_f_i",
-    "f_f_l",
-    "s_t"
+.notdef,
+space,
+exclam,
+quotedbl,
+numbersign,
+dollar,
+percent,
+ampersand,
+quotesingle,
+parenleft,
+parenright,
+asterisk,
+plus,
+comma,
+hyphen,
+period,
+slash,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+colon,
+semicolon,
+less,
+equal,
+greater,
+question,
+at,
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+bracketleft,
+backslash,
+bracketright,
+asciicircum,
+underscore,
+grave,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+braceleft,
+bar,
+braceright,
+asciitilde,
+uni00A0,
+exclamdown,
+cent,
+sterling,
+currency,
+yen,
+section,
+dieresis,
+copyright,
+ordfeminine,
+guillemotleft,
+logicalnot,
+registered,
+macron,
+degree,
+plusminus,
+twosuperior,
+threesuperior,
+acute,
+mu,
+paragraph,
+periodcentered,
+cedilla,
+onesuperior,
+ordmasculine,
+guillemotright,
+onequarter,
+onehalf,
+threequarters,
+questiondown,
+Agrave,
+Aacute,
+Acircumflex,
+Atilde,
+Adieresis,
+Aring,
+AE,
+Ccedilla,
+Egrave,
+Eacute,
+Ecircumflex,
+Edieresis,
+Igrave,
+Iacute,
+Icircumflex,
+Idieresis,
+Eth,
+Ntilde,
+Ograve,
+Oacute,
+Ocircumflex,
+Otilde,
+Odieresis,
+multiply,
+Oslash,
+Ugrave,
+Uacute,
+Ucircumflex,
+Udieresis,
+Yacute,
+Thorn,
+germandbls,
+agrave,
+aacute,
+acircumflex,
+atilde,
+adieresis,
+aring,
+ae,
+ccedilla,
+egrave,
+eacute,
+ecircumflex,
+edieresis,
+igrave,
+iacute,
+icircumflex,
+idieresis,
+eth,
+ntilde,
+ograve,
+oacute,
+ocircumflex,
+otilde,
+odieresis,
+divide,
+oslash,
+ugrave,
+uacute,
+ucircumflex,
+udieresis,
+yacute,
+thorn,
+ydieresis,
+longs,
+florin,
+AEacute,
+aeacute,
+Oslashacute,
+oslashacute,
+Scommaaccent,
+scommaaccent,
+uni021A,
+uni021B,
+dotlessj,
+circumflex,
+caron,
+breve,
+dotaccent,
+ring,
+ogonek,
+tilde,
+hungarumlaut,
+uni03A9,
+pi,
+endash,
+emdash,
+quoteleft,
+quoteright,
+quotesinglbase,
+quotedblleft,
+quotedblright,
+quotedblbase,
+dagger,
+daggerdbl,
+bullet,
+ellipsis,
+guilsinglleft,
+guilsinglright,
+fraction,
+Euro,
+trademark,
+Omega,
+partialdiff,
+Delta,
+product,
+summation,
+minus,
+radical,
+infinity,
+integral,
+approxequal,
+notequal,
+lessequal,
+greaterequal,
+lozenge,
+f_f,
+f_j,
+fi,
+fl,
+f_f_i,
+f_f_l,
+s_t
 );
 }
 );
@@ -366,7 +367,6 @@ glyphname = .notdef;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -432,7 +432,6 @@ glyphname = space;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 260;
 }
 );
@@ -444,7 +443,6 @@ glyphname = exclam;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -496,7 +494,6 @@ glyphname = quotedbl;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -558,7 +555,6 @@ glyphname = numbersign;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -663,7 +659,6 @@ glyphname = dollar;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -766,7 +761,6 @@ glyphname = percent;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -873,7 +867,6 @@ glyphname = ampersand;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -970,7 +963,6 @@ glyphname = quotesingle;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1020,7 +1012,6 @@ glyphname = parenleft;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1069,7 +1060,6 @@ glyphname = parenright;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1119,7 +1109,6 @@ lastChange = "2016-04-11 07:39:49 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1210,7 +1199,6 @@ glyphname = plus;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1262,7 +1250,6 @@ lastChange = "2016-04-11 07:49:02 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1313,7 +1300,6 @@ lastChange = "2016-04-11 07:38:00 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1348,7 +1334,6 @@ glyphname = period;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1385,7 +1370,6 @@ glyphname = slash;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1424,7 +1408,6 @@ glyphname = zero;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1472,7 +1455,6 @@ glyphname = one;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1526,7 +1508,6 @@ glyphname = two;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1583,7 +1564,6 @@ glyphname = three;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1664,7 +1644,6 @@ glyphname = four;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1724,7 +1703,6 @@ glyphname = five;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1798,7 +1776,6 @@ glyphname = six;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1867,7 +1844,6 @@ glyphname = seven;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1911,7 +1887,6 @@ glyphname = eight;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1988,7 +1963,6 @@ glyphname = nine;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2057,7 +2031,6 @@ glyphname = colon;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2115,7 +2088,6 @@ glyphname = semicolon;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2186,7 +2158,6 @@ glyphname = less;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2234,7 +2205,6 @@ glyphname = equal;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2286,7 +2256,6 @@ glyphname = greater;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2334,7 +2303,6 @@ glyphname = question;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2403,7 +2371,6 @@ glyphname = at;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2511,7 +2478,6 @@ glyphname = A;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2570,7 +2536,6 @@ glyphname = B;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2639,7 +2604,6 @@ glyphname = C;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2702,7 +2666,6 @@ glyphname = D;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2752,7 +2715,6 @@ glyphname = E;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2806,7 +2768,6 @@ glyphname = F;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2854,7 +2815,6 @@ glyphname = G;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2923,7 +2883,6 @@ glyphname = H;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2976,7 +2935,6 @@ glyphname = I;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3011,7 +2969,6 @@ glyphname = J;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3059,7 +3016,6 @@ glyphname = K;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3117,7 +3073,6 @@ glyphname = L;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3156,7 +3111,6 @@ glyphname = M;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3217,7 +3171,6 @@ glyphname = N;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3270,7 +3223,6 @@ glyphname = O;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3320,7 +3272,6 @@ glyphname = P;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3373,7 +3324,6 @@ glyphname = Q;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3438,7 +3388,6 @@ lastChange = "2016-03-23 13:45:06 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3505,7 +3454,6 @@ glyphname = S;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3574,7 +3522,6 @@ glyphname = T;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3618,7 +3565,6 @@ glyphname = U;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3667,7 +3613,6 @@ glyphname = V;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3715,7 +3660,6 @@ glyphname = W;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3778,7 +3722,6 @@ glyphname = X;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3841,7 +3784,6 @@ glyphname = Y;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3892,7 +3834,6 @@ glyphname = Z;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3941,7 +3882,6 @@ glyphname = bracketleft;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3985,7 +3925,6 @@ lastChange = "2016-04-11 07:43:04 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4024,7 +3963,6 @@ glyphname = bracketright;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4067,7 +4005,6 @@ glyphname = asciicircum;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4119,7 +4056,6 @@ glyphname = underscore;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4152,7 +4088,6 @@ glyphname = grave;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4192,7 +4127,6 @@ lastChange = "2016-03-06 14:00:49 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4269,7 +4203,6 @@ glyphname = b;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4335,7 +4268,6 @@ glyphname = c;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4398,7 +4330,6 @@ glyphname = d;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4463,7 +4394,6 @@ glyphname = e;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4527,7 +4457,6 @@ glyphname = f;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4592,7 +4521,6 @@ glyphname = g;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4673,7 +4601,6 @@ glyphname = h;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4729,7 +4656,6 @@ glyphname = i;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4793,7 +4719,6 @@ glyphname = j;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4869,7 +4794,6 @@ glyphname = k;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4927,7 +4851,6 @@ glyphname = l;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4961,7 +4884,6 @@ glyphname = m;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5038,7 +4960,6 @@ lastChange = "2016-03-06 14:03:11 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5094,7 +5015,6 @@ glyphname = o;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5144,7 +5064,6 @@ glyphname = p;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5210,7 +5129,6 @@ glyphname = q;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5276,7 +5194,6 @@ glyphname = r;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5325,7 +5242,6 @@ glyphname = s;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5394,7 +5310,6 @@ glyphname = t;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5458,7 +5373,6 @@ glyphname = u;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5514,7 +5428,6 @@ glyphname = v;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5562,7 +5475,6 @@ glyphname = w;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5625,7 +5537,6 @@ glyphname = x;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5688,7 +5599,6 @@ glyphname = y;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5741,7 +5651,6 @@ glyphname = z;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5790,7 +5699,6 @@ glyphname = braceleft;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5859,7 +5767,6 @@ glyphname = bar;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5892,7 +5799,6 @@ glyphname = braceright;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5962,7 +5868,6 @@ lastChange = "2016-04-11 07:39:01 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6011,7 +5916,6 @@ glyphname = uni00A0;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 260;
 }
 );
@@ -6023,7 +5927,6 @@ glyphname = exclamdown;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6075,7 +5978,6 @@ glyphname = cent;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6175,7 +6077,6 @@ glyphname = sterling;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6285,7 +6186,6 @@ glyphname = currency;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6389,7 +6289,6 @@ glyphname = yen;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6472,7 +6371,6 @@ glyphname = section;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6568,7 +6466,6 @@ glyphname = dieresis;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6616,7 +6513,6 @@ glyphname = copyright;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6711,7 +6607,6 @@ glyphname = ordfeminine;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6805,7 +6700,6 @@ glyphname = guillemotleft;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6887,7 +6781,6 @@ glyphname = logicalnot;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6925,7 +6818,6 @@ glyphname = registered;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7025,7 +6917,6 @@ glyphname = macron;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7058,7 +6949,6 @@ glyphname = degree;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7106,7 +6996,6 @@ glyphname = plusminus;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7176,7 +7065,6 @@ glyphname = twosuperior;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7233,7 +7121,6 @@ glyphname = threesuperior;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7314,7 +7201,6 @@ glyphname = acute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7353,7 +7239,6 @@ glyphname = mu;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7414,7 +7299,6 @@ glyphname = paragraph;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7466,7 +7350,6 @@ lastChange = "2016-04-11 07:47:54 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7501,7 +7384,6 @@ glyphname = cedilla;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7565,7 +7447,6 @@ glyphname = onesuperior;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7618,7 +7499,6 @@ glyphname = ordmasculine;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7685,7 +7565,6 @@ glyphname = guillemotright;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7767,7 +7646,6 @@ glyphname = onequarter;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7890,7 +7768,6 @@ glyphname = onehalf;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8011,7 +7888,6 @@ glyphname = threequarters;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8162,7 +8038,6 @@ glyphname = questiondown;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8231,7 +8106,6 @@ glyphname = Agrave;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8315,7 +8189,6 @@ glyphname = Aacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8399,7 +8272,6 @@ glyphname = Acircumflex;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8492,7 +8364,6 @@ glyphname = Atilde;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8595,7 +8466,6 @@ transform = "{1, 0, 0, 1, 151, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 697;
 }
 );
@@ -8609,7 +8479,6 @@ glyphname = Aring;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8702,7 +8571,6 @@ glyphname = AE;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8777,7 +8645,6 @@ glyphname = Ccedilla;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8893,7 +8760,6 @@ transform = "{1, 0, 0, 1, 183, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 638;
 }
 );
@@ -8907,7 +8773,6 @@ glyphname = Eacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8995,7 +8860,6 @@ transform = "{1, 0, 0, 1, 146, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 638;
 }
 );
@@ -9009,7 +8873,6 @@ glyphname = Edieresis;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9106,7 +8969,6 @@ transform = "{1, 0, 0, 1, -13, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 285;
 }
 );
@@ -9120,7 +8982,6 @@ glyphname = Iacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9189,7 +9050,6 @@ transform = "{1, 0, 0, 1, -61, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 285;
 }
 );
@@ -9203,7 +9063,6 @@ glyphname = Idieresis;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9272,7 +9131,6 @@ glyphname = Eth;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9349,7 +9207,6 @@ transform = "{1, 0, 0, 1, 190, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 803;
 }
 );
@@ -9372,7 +9229,6 @@ transform = "{1, 0, 0, 1, 253, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 811;
 }
 );
@@ -9386,7 +9242,6 @@ glyphname = Oacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9470,7 +9325,6 @@ transform = "{1, 0, 0, 1, 203, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 811;
 }
 );
@@ -9484,7 +9338,6 @@ glyphname = Otilde;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9578,7 +9431,6 @@ transform = "{1, 0, 0, 1, 208, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 811;
 }
 );
@@ -9592,7 +9444,6 @@ glyphname = multiply;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9655,7 +9506,6 @@ glyphname = Oslash;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9755,7 +9605,6 @@ transform = "{1, 0, 0, 1, 232, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 758;
 }
 );
@@ -9769,7 +9618,6 @@ glyphname = Uacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9852,7 +9700,6 @@ transform = "{1, 0, 0, 1, 176, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 758;
 }
 );
@@ -9866,7 +9713,6 @@ glyphname = Udieresis;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9958,7 +9804,6 @@ transform = "{1, 0, 0, 1, 234, 172}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 645;
 }
 );
@@ -9972,7 +9817,6 @@ glyphname = Thorn;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10029,7 +9873,6 @@ glyphname = germandbls;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10117,7 +9960,6 @@ transform = "{1, 0, 0, 1, 120, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 555;
 }
 );
@@ -10131,7 +9973,6 @@ glyphname = aacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10242,7 +10083,6 @@ transform = "{1, 0, 0, 1, 70, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 555;
 }
 );
@@ -10256,7 +10096,6 @@ glyphname = atilde;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10377,7 +10216,6 @@ transform = "{1, 0, 0, 1, 76, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 555;
 }
 );
@@ -10391,7 +10229,6 @@ glyphname = aring;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10502,7 +10339,6 @@ glyphname = ae;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10614,7 +10450,6 @@ glyphname = ccedilla;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10730,7 +10565,6 @@ transform = "{1, 0, 0, 1, 140, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 570;
 }
 );
@@ -10744,7 +10578,6 @@ glyphname = eacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10842,7 +10675,6 @@ transform = "{1, 0, 0, 1, 84, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 570;
 }
 );
@@ -10856,7 +10688,6 @@ glyphname = edieresis;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10954,7 +10785,6 @@ glyphname = igrave;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11014,7 +10844,6 @@ glyphname = iacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11074,7 +10903,6 @@ glyphname = icircumflex;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11143,7 +10971,6 @@ glyphname = idieresis;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11212,7 +11039,6 @@ glyphname = eth;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11313,7 +11139,6 @@ transform = "{1, 0, 0, 1, 94, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 609;
 }
 );
@@ -11336,7 +11161,6 @@ transform = "{1, 0, 0, 1, 149, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 608;
 }
 );
@@ -11350,7 +11174,6 @@ glyphname = oacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11434,7 +11257,6 @@ transform = "{1, 0, 0, 1, 101, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 608;
 }
 );
@@ -11448,7 +11270,6 @@ glyphname = otilde;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11542,7 +11363,6 @@ transform = "{1, 0, 0, 1, 106, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 608;
 }
 );
@@ -11556,7 +11376,6 @@ glyphname = divide;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11623,7 +11442,6 @@ glyphname = oslash;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11723,7 +11541,6 @@ transform = "{1, 0, 0, 1, 148, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 610;
 }
 );
@@ -11737,7 +11554,6 @@ glyphname = uacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11827,7 +11643,6 @@ transform = "{1, 0, 0, 1, 100, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 610;
 }
 );
@@ -11841,7 +11656,6 @@ glyphname = udieresis;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11940,7 +11754,6 @@ transform = "{1, 0, 0, 1, 176, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 533;
 }
 );
@@ -11954,7 +11767,6 @@ glyphname = thorn;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12020,7 +11832,6 @@ glyphname = ydieresis;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12107,7 +11918,6 @@ glyphname = longs;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12162,7 +11972,6 @@ glyphname = florin;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12233,7 +12042,6 @@ glyphname = AEacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12342,7 +12150,6 @@ transform = "{1, 0, 0, 1, 354, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 904;
 }
 );
@@ -12356,7 +12163,6 @@ glyphname = Oslashacute;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12481,7 +12287,6 @@ transform = "{1, 0, 0, 1, 214, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 width = 608;
 }
 );
@@ -12495,7 +12300,6 @@ glyphname = Scommaaccent;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12598,7 +12402,6 @@ glyphname = scommaaccent;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12701,7 +12504,6 @@ glyphname = uni021A;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12779,7 +12581,6 @@ glyphname = uni021B;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12877,7 +12678,6 @@ glyphname = dotlessj;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12924,7 +12724,6 @@ glyphname = circumflex;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12972,7 +12771,6 @@ glyphname = caron;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13020,7 +12818,6 @@ glyphname = breve;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13069,7 +12866,6 @@ glyphname = dotaccent;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13100,7 +12896,6 @@ glyphname = ring;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13148,7 +12943,6 @@ glyphname = ogonek;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13195,7 +12989,6 @@ glyphname = tilde;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13244,7 +13037,6 @@ glyphname = hungarumlaut;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13308,7 +13100,6 @@ glyphname = uni03A9;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13379,7 +13170,6 @@ glyphname = pi;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13447,7 +13237,6 @@ lastChange = "2016-04-11 07:38:23 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13482,7 +13271,6 @@ glyphname = emdash;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13517,7 +13305,6 @@ glyphname = quoteleft;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13567,7 +13354,6 @@ glyphname = quoteright;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13617,7 +13403,6 @@ glyphname = quotesinglbase;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13667,7 +13452,6 @@ glyphname = quotedblleft;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13751,7 +13535,6 @@ glyphname = quotedblright;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13835,7 +13618,6 @@ glyphname = quotedblbase;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13919,7 +13701,6 @@ glyphname = dagger;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14006,7 +13787,6 @@ glyphname = daggerdbl;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14145,7 +13925,6 @@ glyphname = bullet;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14176,7 +13955,6 @@ glyphname = ellipsis;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14254,7 +14032,6 @@ glyphname = guilsinglleft;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14303,7 +14080,6 @@ glyphname = guilsinglright;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14352,7 +14128,6 @@ glyphname = fraction;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14391,7 +14166,6 @@ glyphname = Euro;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14496,7 +14270,6 @@ glyphname = trademark;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14583,7 +14356,6 @@ glyphname = Omega;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14654,7 +14426,6 @@ glyphname = partialdiff;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14726,7 +14497,6 @@ glyphname = Delta;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14774,7 +14544,6 @@ glyphname = product;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14825,7 +14594,6 @@ glyphname = summation;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14882,7 +14650,6 @@ glyphname = minus;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14915,7 +14682,6 @@ glyphname = radical;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14973,7 +14739,6 @@ glyphname = infinity;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15052,7 +14817,6 @@ glyphname = integral;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15109,7 +14873,6 @@ glyphname = approxequal;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15205,7 +14968,6 @@ glyphname = notequal;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15280,7 +15042,6 @@ glyphname = lessequal;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15347,7 +15108,6 @@ glyphname = greaterequal;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15414,7 +15174,6 @@ glyphname = lozenge;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15472,7 +15231,6 @@ glyphname = f_f;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15567,7 +15325,6 @@ glyphname = f_j;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15669,7 +15426,6 @@ glyphname = fi;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15760,7 +15516,6 @@ glyphname = fl;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15844,7 +15599,6 @@ glyphname = f_f_i;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15965,7 +15719,6 @@ glyphname = f_f_l;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16079,7 +15832,6 @@ glyphname = s_t;
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16227,7 +15979,6 @@ position = "{-12, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16310,7 +16061,6 @@ position = "{-3, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16391,7 +16141,6 @@ position = "{10, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16476,7 +16225,6 @@ position = "{-16, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16551,7 +16299,6 @@ position = "{10, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16637,7 +16384,6 @@ position = "{132, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16693,7 +16439,6 @@ position = "{-10, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16768,7 +16513,6 @@ position = "{0, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16851,7 +16595,6 @@ position = "{0, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16932,7 +16675,6 @@ position = "{-2, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16987,7 +16729,6 @@ position = "{20, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17050,7 +16791,6 @@ position = "{-18, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17126,7 +16866,6 @@ position = "{-51, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17191,7 +16930,6 @@ position = "{20, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17265,7 +17003,6 @@ position = "{20, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17346,7 +17083,6 @@ position = "{20, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17401,7 +17137,6 @@ position = "{-10, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17469,7 +17204,6 @@ position = "{10, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17543,7 +17277,6 @@ position = "{-20, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17620,7 +17353,6 @@ position = "{20, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17699,7 +17431,6 @@ position = "{20, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17785,7 +17516,6 @@ position = "{-10, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17854,7 +17584,6 @@ position = "{0, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17935,7 +17664,6 @@ position = "{0, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18026,7 +17754,6 @@ position = "{0, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18097,7 +17824,6 @@ position = "{656, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18192,7 +17918,6 @@ position = "{10, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18258,7 +17983,6 @@ lastChange = "2016-04-01 14:32:35 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18292,7 +18016,6 @@ lastChange = "2016-04-01 14:32:29 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18345,7 +18068,6 @@ lastChange = "2016-04-11 07:37:13 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18388,7 +18110,6 @@ lastChange = "2016-04-01 14:31:06 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18484,7 +18205,6 @@ position = "{264, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18547,7 +18267,6 @@ position = "{264, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18661,7 +18380,6 @@ position = "{264, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18743,7 +18461,6 @@ position = "{264, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18842,7 +18559,6 @@ position = "{264, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18888,7 +18604,6 @@ position = "{264, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18951,7 +18666,6 @@ position = "{264, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19031,7 +18745,6 @@ position = "{264, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19079,7 +18792,6 @@ position = "{264, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19144,7 +18856,6 @@ position = "{250, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19190,7 +18901,6 @@ position = "{264, 0}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19270,7 +18980,6 @@ position = "{251, 300}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19316,7 +19025,6 @@ position = "{250, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19362,7 +19070,6 @@ position = "{250, 510}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19399,6 +19106,9 @@ unicode = 05C2;
 disablesNiceNames = 1;
 instances = (
 {
+instanceInterpolations = {
+"A99C00BB-606F-4263-964D-93C8B7F0BADD" = 1;
+};
 name = Normal;
 }
 );
@@ -19609,18 +19319,18 @@ kerning = {
 "@MMK_R_quoteleft" = -124;
 "@MMK_R_t" = -12;
 "@MMK_R_y" = -28;
-"gimel-hb" = -20;
+"ayin-hb" = -60;
 "dalet-hb" = -90;
-"zayin-hb" = -60;
-"tet-hb" = -10;
+"finaltsadi-hb" = -70;
+"gimel-hb" = -20;
 "lamed-hb" = -100;
 "nun-hb" = -20;
-"samekh-hb" = -20;
-"ayin-hb" = -60;
 "pe-hb" = -40;
-"finaltsadi-hb" = -70;
 "qof-hb" = -10;
+"samekh-hb" = -20;
 "shin-hb" = -20;
+"tet-hb" = -10;
+"zayin-hb" = -60;
 };
 "@MMK_L_e" = {
 "@MMK_R_A" = -5;
@@ -19683,13 +19393,13 @@ kerning = {
 "@MMK_R_Y" = -66;
 "@MMK_R_f" = -13;
 "@MMK_R_t" = -12;
+"alef-hb" = -20;
 "bet-hb" = -30;
 "dalet-hb" = -40;
-"zayin-hb" = -40;
+"finaltsadi-hb" = -40;
 "lamed-hb" = -20;
 "tsadi-hb" = -40;
-"finaltsadi-hb" = -40;
-"alef-hb" = -20;
+"zayin-hb" = -40;
 };
 "@MMK_L_i" = {
 "@MMK_R_A" = -7;
@@ -19708,6 +19418,19 @@ kerning = {
 "@MMK_R_T" = -9;
 "@MMK_R_U" = -18;
 "@MMK_R_Y" = -11;
+};
+"@MMK_L_maqaf" = {
+"bet-hb" = -50;
+"finalmem-hb" = -30;
+"finalpe-hb" = -40;
+"gimel-hb" = -20;
+"he-hb" = -40;
+"het-hb" = -50;
+"kaf-hb" = -30;
+"mem-hb" = -40;
+"resh-hb" = -30;
+"samekh-hb" = -30;
+"zayin-hb" = 10;
 };
 "@MMK_L_quotedbl" = {
 "@MMK_R_A" = -51;
@@ -20679,6 +20402,12 @@ question = -19;
 trademark = -25;
 v = -10;
 };
+"alef-hb" = {
+"@MMK_R_hyphen" = -20;
+backslash = -10;
+periodcentered = -10;
+"yod-hb" = -10;
+};
 ampersand = {
 AE = 19;
 AEacute = 19;
@@ -20725,6 +20454,13 @@ question = -19;
 trademark = -25;
 v = -10;
 };
+asciitilde = {
+"alef-hb" = -20;
+"dalet-hb" = -10;
+"finaltsadi-hb" = -30;
+"tsadi-hb" = -30;
+"zayin-hb" = -20;
+};
 asterisk = {
 A = -41;
 AE = -51;
@@ -20744,6 +20480,7 @@ aeacute = -10;
 agrave = -10;
 aring = -10;
 atilde = -10;
+"bet-hb" = -40;
 c = -14;
 ccedilla = -14;
 d = -14;
@@ -20753,9 +20490,14 @@ ecircumflex = -14;
 edieresis = -14;
 egrave = -14;
 eth = -14;
+"finalkaf-hb" = -10;
+"finalmem-hb" = -20;
 g = -14;
+"he-hb" = -30;
+"het-hb" = -40;
 icircumflex = 20;
 idieresis = 11;
+"kaf-hb" = -30;
 o = -14;
 oacute = -14;
 ocircumflex = -14;
@@ -20764,15 +20506,9 @@ ograve = -14;
 oslash = -14;
 oslashacute = -14;
 otilde = -14;
-q = -14;
-"bet-hb" = -40;
-"he-hb" = -30;
-"het-hb" = -40;
-"kaf-hb" = -30;
-"finalkaf-hb" = -10;
-"finalmem-hb" = -20;
-"samekh-hb" = -20;
 "pe-hb" = -10;
+q = -14;
+"samekh-hb" = -20;
 };
 at = {
 T = -18;
@@ -20792,6 +20528,11 @@ parenright = -20;
 question = -19;
 trademark = -25;
 v = -10;
+};
+"ayin-hb" = {
+"@MMK_R_comma" = 30;
+"@MMK_R_hyphen" = -30;
+asterisk = -10;
 };
 b = {
 V = -53;
@@ -20830,28 +20571,38 @@ Ugrave = -14;
 V = -35;
 Y = -44;
 Yacute = -44;
+"bet-hb" = -70;
+"finalkaf-hb" = -20;
+"finalpe-hb" = -30;
+"gimel-hb" = -20;
+"he-hb" = -20;
+"kaf-hb" = -30;
+"pe-hb" = -20;
+"qof-hb" = -10;
 quotedbl = -40;
 quotedblright = -40;
 quoteright = -40;
 quotesingle = -40;
+"resh-hb" = -30;
+"samekh-hb" = -40;
 t = -10;
+"tav-hb" = -20;
 uni021A = -36;
 uni021B = -10;
 v = -19;
 y = -13;
 yacute = -13;
 ydieresis = -13;
-"bet-hb" = -70;
-"gimel-hb" = -20;
-"he-hb" = -20;
-"kaf-hb" = -30;
-"finalkaf-hb" = -20;
-"samekh-hb" = -40;
-"pe-hb" = -20;
-"finalpe-hb" = -30;
-"qof-hb" = -10;
-"resh-hb" = -30;
-"tav-hb" = -20;
+};
+"bet-hb" = {
+"@MMK_R_comma" = 10;
+"@MMK_R_hyphen" = -30;
+asciitilde = -10;
+"dalet-hb" = 0;
+"lamed-hb" = -10;
+periodcentered = -10;
+"samekh-hb" = -20;
+"tav-hb" = -10;
 };
 braceleft = {
 A = -13;
@@ -21018,6 +20769,24 @@ quotedbl = -125;
 quotedblright = -125;
 v = -31;
 };
+"dalet-hb" = {
+"@MMK_R_comma" = -70;
+"@MMK_R_hyphen" = -40;
+asciitilde = -10;
+backslash = -80;
+"bet-hb" = -50;
+"finalkaf-hb" = -10;
+"finalmem-hb" = -10;
+"finalpe-hb" = -30;
+"gimel-hb" = -20;
+"kaf-hb" = -10;
+"pe-hb" = -20;
+periodcentered = -20;
+"samekh-hb" = -20;
+"tav-hb" = -20;
+"tsadi-hb" = -10;
+"yod-hb" = 10;
+};
 dotlessj = {
 V = -9;
 ampersand = -8;
@@ -21160,6 +20929,33 @@ fi = {
 V = -9;
 ampersand = -8;
 };
+"finalkaf-hb" = {
+"@MMK_R_comma" = -40;
+"@MMK_R_hyphen" = -20;
+backslash = -60;
+"bet-hb" = -20;
+"gimel-hb" = -10;
+"pe-hb" = -30;
+periodcentered = -20;
+"samekh-hb" = -20;
+};
+"finalnun-hb" = {
+backslash = -20;
+};
+"finalpe-hb" = {
+"@MMK_R_comma" = -50;
+"@MMK_R_maqaf" = -10;
+backslash = -40;
+"tsadi-hb" = -30;
+};
+"finaltsadi-hb" = {
+"@MMK_R_comma" = -100;
+"@MMK_R_hyphen" = -20;
+"@MMK_R_maqaf" = 10;
+asciitilde = -20;
+backslash = -40;
+"bet-hb" = -20;
+};
 fl = {
 V = -11;
 ampersand = -9;
@@ -21184,6 +20980,13 @@ trademark = -9;
 uni021B = -4;
 v = -6;
 x = -6;
+};
+"gimel-hb" = {
+"@MMK_R_comma" = 40;
+"@MMK_R_hyphen" = -40;
+asciitilde = -10;
+"lamed-hb" = -10;
+"yod-hb" = -30;
 };
 guillemotleft = {
 V = -12;
@@ -21213,6 +21016,17 @@ parenright = -20;
 question = -18;
 trademark = -24;
 v = -9;
+};
+"he-hb" = {
+"@MMK_R_hyphen" = 0;
+asterisk = -10;
+};
+"het-hb" = {
+"@MMK_R_hyphen" = -30;
+asciitilde = -20;
+asterisk = -10;
+backslash = -20;
+"yod-hb" = -10;
 };
 hyphen = {
 V = -33;
@@ -21248,10 +21062,34 @@ j = {
 V = -9;
 ampersand = -8;
 };
+"kaf-hb" = {
+"@MMK_R_hyphen" = -30;
+asciitilde = -20;
+"samekh-hb" = -20;
+"tsadi-hb" = -10;
+"yod-hb" = -10;
+};
 l = {
 V = -11;
 ampersand = -9;
 periodcentered = -60;
+};
+"lamed-hb" = {
+"@MMK_R_comma" = -70;
+"@MMK_R_hyphen" = -30;
+asciitilde = -20;
+backslash = -40;
+"bet-hb" = -20;
+"dalet-hb" = 10;
+"finalmem-hb" = -10;
+"finalpe-hb" = -30;
+"gimel-hb" = -10;
+"he-hb" = -20;
+"het-hb" = -20;
+"kaf-hb" = -20;
+"mem-hb" = -10;
+"pe-hb" = -30;
+"samekh-hb" = -30;
 };
 longs = {
 dotlessj = 1;
@@ -21300,6 +21138,11 @@ parenright = -20;
 question = -18;
 trademark = -24;
 v = -9;
+};
+"nun-hb" = {
+"@MMK_R_comma" = 30;
+"@MMK_R_hyphen" = -20;
+"pe-hb" = -10;
 };
 o = {
 V = -53;
@@ -21494,11 +21337,21 @@ y = -15;
 yacute = -15;
 ydieresis = -15;
 };
+"pe-hb" = {
+"@MMK_R_maqaf" = -30;
+backslash = -20;
+"finaltsadi-hb" = -20;
+"tav-hb" = -10;
+};
 period = {
 V = -64;
 quotedbl = -125;
 quotedblright = -125;
 v = -31;
+};
+periodcentered = {
+"alef-hb" = -10;
+"bet-hb" = -10;
 };
 q = {
 V = -44;
@@ -21509,6 +21362,9 @@ braceright = -18;
 bracketright = -20;
 parenright = -18;
 trademark = -18;
+};
+"qof-hb" = {
+"@MMK_R_comma" = 10;
 };
 questiondown = {
 A = -15;
@@ -21689,6 +21545,16 @@ Y = -25;
 Yacute = -25;
 uni021A = -17;
 };
+"resh-hb" = {
+"@MMK_R_comma" = -30;
+"@MMK_R_hyphen" = -40;
+asciitilde = -20;
+backslash = -70;
+"bet-hb" = -50;
+"finalpe-hb" = -10;
+"pe-hb" = -20;
+"tav-hb" = -10;
+};
 s = {
 V = -53;
 X = -12;
@@ -21707,6 +21573,9 @@ bracketright = -11;
 trademark = -8;
 v = 17;
 };
+"samekh-hb" = {
+"@MMK_R_comma" = -30;
+};
 scommaaccent = {
 V = -53;
 X = -12;
@@ -21720,6 +21589,9 @@ v = -4;
 };
 semicolon = {
 V = -9;
+};
+"shin-hb" = {
+"@MMK_R_comma" = -10;
 };
 slash = {
 A = -32;
@@ -21781,6 +21653,15 @@ bracketright = -11;
 trademark = -8;
 v = 17;
 };
+"tav-hb" = {
+"@MMK_R_hyphen" = -20;
+periodcentered = -10;
+"yod-hb" = -20;
+};
+"tet-hb" = {
+asterisk = -10;
+backslash = -10;
+};
 thorn = {
 V = -53;
 X = -41;
@@ -21804,6 +21685,16 @@ Adieresis = -30;
 Agrave = -30;
 Aring = -30;
 Atilde = -30;
+};
+"tsadi-hb" = {
+"@MMK_R_comma" = 20;
+"@MMK_R_hyphen" = -40;
+asciitilde = -30;
+asterisk = -10;
+"he-hb" = -10;
+"het-hb" = -10;
+"tav-hb" = -10;
+"zayin-hb" = 10;
 };
 u = {
 V = -44;
@@ -22095,203 +21986,22 @@ slash = -15;
 v = 31;
 x = 28;
 };
-"bet-hb" = {
-"dalet-hb" = 0;
-"lamed-hb" = -10;
-"samekh-hb" = -20;
-"tav-hb" = -10;
-"@MMK_R_hyphen" = -30;
-asciitilde = -10;
-periodcentered = -10;
-"@MMK_R_comma" = 10;
-};
-"dalet-hb" = {
-"bet-hb" = -50;
-"gimel-hb" = -20;
-"finalkaf-hb" = -10;
-"pe-hb" = -20;
-"yod-hb" = 10;
-"kaf-hb" = -10;
-"finalmem-hb" = -10;
-"samekh-hb" = -20;
-"finalpe-hb" = -30;
-"tsadi-hb" = -10;
-"tav-hb" = -20;
-"@MMK_R_hyphen" = -40;
-asciitilde = -10;
-backslash = -80;
-periodcentered = -20;
-"@MMK_R_comma" = -70;
-};
 "yod-hb" = {
-"bet-hb" = -40;
 "alef-hb" = -20;
-"he-hb" = -10;
-"tsadi-hb" = -10;
-"tav-hb" = -10;
 backslash = -50;
-};
-"finalkaf-hb" = {
-"bet-hb" = -20;
-"gimel-hb" = -10;
-"samekh-hb" = -20;
-"pe-hb" = -30;
-"@MMK_R_hyphen" = -20;
-backslash = -60;
-periodcentered = -20;
-"@MMK_R_comma" = -40;
-};
-"finaltsadi-hb" = {
-"bet-hb" = -20;
-"@MMK_R_maqaf" = 10;
-"@MMK_R_hyphen" = -20;
-asciitilde = -20;
-backslash = -40;
-"@MMK_R_comma" = -100;
-};
-"resh-hb" = {
-"bet-hb" = -50;
-"pe-hb" = -20;
-"finalpe-hb" = -10;
+"bet-hb" = -40;
+"he-hb" = -10;
 "tav-hb" = -10;
-"@MMK_R_hyphen" = -40;
-asciitilde = -20;
-backslash = -70;
-"@MMK_R_comma" = -30;
-};
-"gimel-hb" = {
-"yod-hb" = -30;
-"lamed-hb" = -10;
-"@MMK_R_hyphen" = -40;
-asciitilde = -10;
-"@MMK_R_comma" = 40;
-};
-"tav-hb" = {
-"yod-hb" = -20;
-"@MMK_R_hyphen" = -20;
-periodcentered = -10;
-};
-"alef-hb" = {
-"yod-hb" = -10;
-"@MMK_R_hyphen" = -20;
-backslash = -10;
-periodcentered = -10;
-};
-"het-hb" = {
-"yod-hb" = -10;
-"@MMK_R_hyphen" = -30;
-asciitilde = -20;
-asterisk = -10;
-backslash = -20;
-};
-"kaf-hb" = {
-"yod-hb" = -10;
-"samekh-hb" = -20;
 "tsadi-hb" = -10;
-"@MMK_R_hyphen" = -30;
-asciitilde = -20;
 };
 "zayin-hb" = {
-"kaf-hb" = -20;
-"tsadi-hb" = -20;
-"tav-hb" = -10;
+"@MMK_R_comma" = -40;
 "@MMK_R_hyphen" = -20;
 asciitilde = -10;
 backslash = -50;
-"@MMK_R_comma" = -40;
-};
-"lamed-hb" = {
-"bet-hb" = -20;
-"gimel-hb" = -10;
-"dalet-hb" = 10;
-"he-hb" = -20;
-"het-hb" = -20;
 "kaf-hb" = -20;
-"mem-hb" = -10;
-"finalmem-hb" = -10;
-"samekh-hb" = -30;
-"pe-hb" = -30;
-"finalpe-hb" = -30;
-"@MMK_R_hyphen" = -30;
-asciitilde = -20;
-backslash = -40;
-"@MMK_R_comma" = -70;
-};
-"nun-hb" = {
-"pe-hb" = -10;
-"@MMK_R_hyphen" = -20;
-"@MMK_R_comma" = 30;
-};
-"pe-hb" = {
 "tav-hb" = -10;
-"finaltsadi-hb" = -20;
-"@MMK_R_maqaf" = -30;
-backslash = -20;
-};
-"tsadi-hb" = {
-"he-hb" = -10;
-"het-hb" = -10;
-"zayin-hb" = 10;
-"tav-hb" = -10;
-"@MMK_R_hyphen" = -40;
-asciitilde = -30;
-asterisk = -10;
-"@MMK_R_comma" = 20;
-};
-"finalpe-hb" = {
-"tsadi-hb" = -30;
-"@MMK_R_maqaf" = -10;
-backslash = -40;
-"@MMK_R_comma" = -50;
-};
-"@MMK_L_maqaf" = {
-"bet-hb" = -50;
-"gimel-hb" = -20;
-"he-hb" = -40;
-"zayin-hb" = 10;
-"het-hb" = -50;
-"kaf-hb" = -30;
-"mem-hb" = -40;
-"finalmem-hb" = -30;
-"samekh-hb" = -30;
-"finalpe-hb" = -40;
-"resh-hb" = -30;
-};
-"ayin-hb" = {
-"@MMK_R_hyphen" = -30;
-asterisk = -10;
-"@MMK_R_comma" = 30;
-};
-"he-hb" = {
-"@MMK_R_hyphen" = 0;
-asterisk = -10;
-};
-asciitilde = {
-"alef-hb" = -20;
-"dalet-hb" = -10;
-"zayin-hb" = -20;
-"tsadi-hb" = -30;
-"finaltsadi-hb" = -30;
-};
-"tet-hb" = {
-asterisk = -10;
-backslash = -10;
-};
-"finalnun-hb" = {
-backslash = -20;
-};
-periodcentered = {
-"alef-hb" = -10;
-"bet-hb" = -10;
-};
-"samekh-hb" = {
-"@MMK_R_comma" = -30;
-};
-"qof-hb" = {
-"@MMK_R_comma" = 10;
-};
-"shin-hb" = {
-"@MMK_R_comma" = -10;
+"tsadi-hb" = -20;
 };
 };
 };
