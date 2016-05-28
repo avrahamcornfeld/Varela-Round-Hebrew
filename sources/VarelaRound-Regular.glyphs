@@ -21958,6 +21958,6 @@ backslash = -50;
 manufacturer = "Joe Prince, Avraham Cornfeld";
 manufacturerURL = "http://www.avrahamcornfeld.com";
 unitsPerEm = 1000;
-versionMajor = 1;
+versionMajor = 2;
 versionMinor = 0;
 }
