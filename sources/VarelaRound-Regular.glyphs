@@ -19111,7 +19111,7 @@ instances = (
 instanceInterpolations = {
 "A99C00BB-606F-4263-964D-93C8B7F0BADD" = 1;
 };
-name = Normal;
+name = Regular;
 }
 );
 kerning = {
