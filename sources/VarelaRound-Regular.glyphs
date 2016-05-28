@@ -280,6 +280,9 @@ name = fsType;
 value = (
 );
 },
+{
+name = "Disable Last Change";
+value = 1;
 }
 );
 date = "2011-07-01 19:45:49 +0000";
@@ -1107,7 +1110,6 @@ unicode = 0029;
 },
 {
 glyphname = asterisk;
-lastChange = "2016-04-11 07:39:49 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -1248,7 +1250,6 @@ unicode = 002B;
 },
 {
 glyphname = comma;
-lastChange = "2016-04-11 07:49:02 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -1298,7 +1299,6 @@ unicode = 002C;
 },
 {
 glyphname = hyphen;
-lastChange = "2016-04-11 07:38:00 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -3386,7 +3386,6 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2016-03-23 13:45:06 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -3923,7 +3922,6 @@ unicode = 005B;
 },
 {
 glyphname = backslash;
-lastChange = "2016-04-11 07:43:04 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -4125,7 +4123,6 @@ unicode = 0060;
 },
 {
 glyphname = a;
-lastChange = "2016-03-06 14:00:49 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -4958,7 +4955,6 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-03-06 14:03:11 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -5866,7 +5862,6 @@ unicode = 007D;
 },
 {
 glyphname = asciitilde;
-lastChange = "2016-04-11 07:39:01 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -7348,7 +7343,6 @@ unicode = 00B6;
 },
 {
 glyphname = periodcentered;
-lastChange = "2016-04-11 07:47:54 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -13235,7 +13229,6 @@ unicode = 03C0;
 },
 {
 glyphname = endash;
-lastChange = "2016-04-11 07:38:23 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -15955,7 +15948,6 @@ unicode = FB06;
 },
 {
 glyphname = "alef-hb";
-lastChange = "2016-04-11 07:43:52 +0000";
 layers = (
 {
 anchors = (
@@ -16037,7 +16029,6 @@ unicode = 05D0;
 },
 {
 glyphname = "bet-hb";
-lastChange = "2016-04-11 07:43:54 +0000";
 layers = (
 {
 anchors = (
@@ -16117,7 +16108,6 @@ unicode = 05D1;
 },
 {
 glyphname = "gimel-hb";
-lastChange = "2016-04-11 07:48:01 +0000";
 layers = (
 {
 anchors = (
@@ -16201,7 +16191,6 @@ unicode = 05D2;
 },
 {
 glyphname = "dalet-hb";
-lastChange = "2016-04-11 07:48:06 +0000";
 layers = (
 {
 anchors = (
@@ -16275,7 +16264,6 @@ unicode = 05D3;
 },
 {
 glyphname = "he-hb";
-lastChange = "2016-04-11 07:40:21 +0000";
 layers = (
 {
 anchors = (
@@ -16360,7 +16348,6 @@ unicode = 05D4;
 },
 {
 glyphname = "vav-hb";
-lastChange = "2016-04-11 07:26:32 +0000";
 layers = (
 {
 anchors = (
@@ -16415,7 +16402,6 @@ unicode = 05D5;
 },
 {
 glyphname = "zayin-hb";
-lastChange = "2016-04-11 07:48:13 +0000";
 layers = (
 {
 anchors = (
@@ -16489,7 +16475,6 @@ unicode = 05D6;
 },
 {
 glyphname = "het-hb";
-lastChange = "2016-04-11 07:39:26 +0000";
 layers = (
 {
 anchors = (
@@ -16571,7 +16556,6 @@ unicode = 05D7;
 },
 {
 glyphname = "tet-hb";
-lastChange = "2016-04-11 07:48:16 +0000";
 layers = (
 {
 anchors = (
@@ -16651,7 +16635,6 @@ unicode = 05D8;
 },
 {
 glyphname = "yod-hb";
-lastChange = "2016-04-11 07:26:41 +0000";
 layers = (
 {
 anchors = (
@@ -16705,7 +16688,6 @@ unicode = 05D9;
 },
 {
 glyphname = "finalkaf-hb";
-lastChange = "2016-04-11 07:42:43 +0000";
 layers = (
 {
 anchors = (
@@ -16767,7 +16749,6 @@ unicode = 05DA;
 },
 {
 glyphname = "kaf-hb";
-lastChange = "2016-04-11 07:40:36 +0000";
 layers = (
 {
 anchors = (
@@ -16842,7 +16823,6 @@ unicode = 05DB;
 },
 {
 glyphname = "lamed-hb";
-lastChange = "2016-04-11 07:48:23 +0000";
 layers = (
 {
 anchors = (
@@ -16906,7 +16886,6 @@ unicode = 05DC;
 },
 {
 glyphname = "finalmem-hb";
-lastChange = "2016-04-11 07:39:34 +0000";
 layers = (
 {
 anchors = (
@@ -16979,7 +16958,6 @@ unicode = 05DD;
 },
 {
 glyphname = "mem-hb";
-lastChange = "2016-04-11 07:37:01 +0000";
 layers = (
 {
 anchors = (
@@ -17059,7 +17037,6 @@ unicode = 05DE;
 },
 {
 glyphname = "finalnun-hb";
-lastChange = "2016-04-01 14:45:24 +0000";
 layers = (
 {
 anchors = (
@@ -17113,7 +17090,6 @@ unicode = 05DF;
 },
 {
 glyphname = "nun-hb";
-lastChange = "2016-04-11 07:48:27 +0000";
 layers = (
 {
 anchors = (
@@ -17180,7 +17156,6 @@ unicode = 05E0;
 },
 {
 glyphname = "samekh-hb";
-lastChange = "2016-04-11 07:48:30 +0000";
 layers = (
 {
 anchors = (
@@ -17253,7 +17228,6 @@ unicode = 05E1;
 },
 {
 glyphname = "ayin-hb";
-lastChange = "2016-04-11 07:48:32 +0000";
 layers = (
 {
 anchors = (
@@ -17329,7 +17303,6 @@ unicode = 05E2;
 },
 {
 glyphname = "finalpe-hb";
-lastChange = "2016-04-11 07:42:57 +0000";
 layers = (
 {
 anchors = (
@@ -17407,7 +17380,6 @@ unicode = 05E3;
 },
 {
 glyphname = "pe-hb";
-lastChange = "2016-04-11 07:48:34 +0000";
 layers = (
 {
 anchors = (
@@ -17492,7 +17464,6 @@ unicode = 05E4;
 },
 {
 glyphname = "finaltsadi-hb";
-lastChange = "2016-04-11 07:48:40 +0000";
 layers = (
 {
 anchors = (
@@ -17560,7 +17531,6 @@ unicode = 05E5;
 },
 {
 glyphname = "tsadi-hb";
-lastChange = "2016-04-11 07:38:54 +0000";
 layers = (
 {
 anchors = (
@@ -17640,7 +17610,6 @@ unicode = 05E6;
 },
 {
 glyphname = "qof-hb";
-lastChange = "2016-04-11 07:48:53 +0000";
 layers = (
 {
 anchors = (
@@ -17730,7 +17699,6 @@ unicode = 05E7;
 },
 {
 glyphname = "resh-hb";
-lastChange = "2016-04-11 07:43:02 +0000";
 layers = (
 {
 anchors = (
@@ -17796,7 +17764,6 @@ unicode = 05E8;
 },
 {
 glyphname = "shin-hb";
-lastChange = "2016-04-11 07:49:01 +0000";
 layers = (
 {
 anchors = (
@@ -17894,7 +17861,6 @@ unicode = 05E9;
 },
 {
 glyphname = "tav-hb";
-lastChange = "2016-04-11 07:43:06 +0000";
 layers = (
 {
 anchors = (
@@ -17981,7 +17947,6 @@ unicode = 05EA;
 },
 {
 glyphname = gereshhebrew;
-lastChange = "2016-04-01 14:32:35 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -18014,7 +17979,6 @@ unicode = 05F3;
 },
 {
 glyphname = gershayimhebrew;
-lastChange = "2016-04-01 14:32:29 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -18066,7 +18030,6 @@ unicode = 05F4;
 },
 {
 glyphname = maqaf;
-lastChange = "2016-04-11 07:37:13 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -18108,7 +18071,6 @@ unicode = 05BE;
 },
 {
 glyphname = newsheqelsign;
-lastChange = "2016-04-01 14:31:06 +0000";
 layers = (
 {
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
@@ -18197,7 +18159,6 @@ unicode = 20AA;
 {
 color = 2;
 glyphname = "sheva-hb";
-lastChange = "2016-04-01 14:44:21 +0000";
 layers = (
 {
 anchors = (
@@ -18259,7 +18220,6 @@ unicode = 05B0;
 {
 color = 2;
 glyphname = "hatafsegol-hb";
-lastChange = "2016-04-01 14:44:23 +0000";
 layers = (
 {
 anchors = (
@@ -18372,7 +18332,6 @@ unicode = 05B1;
 {
 color = 2;
 glyphname = "hatafpatah-hb";
-lastChange = "2016-04-01 14:44:39 +0000";
 layers = (
 {
 anchors = (
@@ -18453,7 +18412,6 @@ unicode = 05B2;
 {
 color = 2;
 glyphname = "hatafqamats-hb";
-lastChange = "2016-04-01 14:44:43 +0000";
 layers = (
 {
 anchors = (
@@ -18551,7 +18509,6 @@ unicode = 05B3;
 {
 color = 2;
 glyphname = "hiriq-hb";
-lastChange = "2016-04-01 14:44:46 +0000";
 layers = (
 {
 anchors = (
@@ -18596,7 +18553,6 @@ unicode = 05B4;
 {
 color = 2;
 glyphname = "tsere-hb";
-lastChange = "2016-04-01 14:44:48 +0000";
 layers = (
 {
 anchors = (
@@ -18658,7 +18614,6 @@ unicode = 05B5;
 {
 color = 2;
 glyphname = "segol-hb";
-lastChange = "2016-04-01 14:44:50 +0000";
 layers = (
 {
 anchors = (
@@ -18737,7 +18692,6 @@ unicode = 05B6;
 {
 color = 2;
 glyphname = "patah-hb";
-lastChange = "2016-03-06 14:30:38 +0000";
 layers = (
 {
 anchors = (
@@ -18784,7 +18738,6 @@ unicode = 05B7;
 {
 color = 2;
 glyphname = "qamats-hb";
-lastChange = "2016-04-01 14:43:12 +0000";
 layers = (
 {
 anchors = (
@@ -18848,7 +18801,6 @@ unicode = 05B8;
 {
 color = 2;
 glyphname = "holam-hb";
-lastChange = "2016-04-01 14:45:56 +0000";
 layers = (
 {
 anchors = (
@@ -18893,7 +18845,6 @@ unicode = 05B9;
 {
 color = 2;
 glyphname = "qubuts-hb";
-lastChange = "2016-04-01 14:44:14 +0000";
 layers = (
 {
 anchors = (
@@ -18972,7 +18923,6 @@ unicode = 05BB;
 {
 color = 2;
 glyphname = "dagesh-hb";
-lastChange = "2016-04-01 14:44:59 +0000";
 layers = (
 {
 anchors = (
@@ -19017,7 +18967,6 @@ unicode = 05BC;
 {
 color = 2;
 glyphname = "shindot-hb";
-lastChange = "2016-04-01 14:45:59 +0000";
 layers = (
 {
 anchors = (
@@ -19062,7 +19011,6 @@ unicode = 05C1;
 {
 color = 2;
 glyphname = "sindot-hb";
-lastChange = "2016-04-01 14:46:01 +0000";
 layers = (
 {
 anchors = (
