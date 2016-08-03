@@ -8,4 +8,5 @@
 #     Name <email address>
 
 Joe Prince
-Avraham Cornfeld
+Avraham Cornfeld <http://www.avrahamcornfeld.com>
+Marc Foley <m.foley.88@gmail.com>
