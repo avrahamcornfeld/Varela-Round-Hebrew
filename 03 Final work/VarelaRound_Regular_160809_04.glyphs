@@ -25294,7 +25294,7 @@ transform = "{1, 0, 0, 1, 0, 310}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-width = 411;
+width = 370;
 }
 );
 leftKerningGroup = one.dnom;
@@ -25334,7 +25334,7 @@ transform = "{1, 0, 0, 1, 0, 310}";
 }
 );
 layerId = "A99C00BB-606F-4263-964D-93C8B7F0BADD";
-width = 397;
+width = 370;
 }
 );
 leftKerningGroup = three.dnom;
