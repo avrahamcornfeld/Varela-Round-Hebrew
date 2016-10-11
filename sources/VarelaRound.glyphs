@@ -128,35 +128,35 @@ capHeight = 698;
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 918;
 },
 {
 name = typoDescender;
-value = -240;
+value = -286;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = hheaLineGap;
-value = 0;
-},
-{
-name = hheaAscender;
-value = 800;
-},
-{
-name = hheaDescender;
-value = -240;
+name = winAscent;
+value = 918;
 },
 {
 name = winDescent;
 value = 286;
 },
 {
-name = winAscent;
-value = 1025;
+name = hheaAscender;
+value = 918;
+},
+{
+name = hheaDescender;
+value = -286;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -232;
