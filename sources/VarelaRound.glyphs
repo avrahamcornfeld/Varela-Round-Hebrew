@@ -1,5 +1,5 @@
 {
-.appVersion = "926";
+.appVersion = "930";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011-2016 The Varela Round Project Authors";
+copyright = "Copyright 2011-2016 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and ‘Varela Round’.";
 customParameters = (
 {
 name = license;

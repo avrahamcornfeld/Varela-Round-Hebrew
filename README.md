@@ -11,14 +11,3 @@ The Hebrew component was designed by Avraham Cornfeld ([AlefAlefAlef](http://ale
 
 The Varela Round project is led by Avraham Cornfeld, a type designer based in Israel. 
 To contribute, see [github.com/alefalefalef/Varela-Round-Hebrew](https://github.com/alefalefalef/Varela-Round-Hebrew)
-
-# Completed tasks:
-- Updated version number to V3.000
-- Added vertical metrics
-- Ran tidied up paths
-
-# Todo:
-- Improve README.md
-- Fix glyphs, anchors and components
-- Run fonts through Font bakery and Ship fonts
-- Add TRADEMARKS.md
