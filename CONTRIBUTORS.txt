@@ -8,5 +8,5 @@
 #     Name <email address>
 
 Joe Prince
-Avraham Cornfeld https://www.alefalefalef.co.il
+Avraham Cornfeld <fonts@alefalefalef.co.il>
 Marc Foley <m.foley.88@gmail.com>
